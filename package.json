@@ -2,7 +2,7 @@
   "name": "CrashReport",
   "version": "0.0.1",
   "scripts": {
-    "start": "webpack-dev-server --hot --hot-only --watch --open"
+    "start": "webpack-dev-server --hot --hot-only --watch"
   },
   "dependencies": {
     "babel-core": "^6.26.0",
